@@ -1,0 +1,56 @@
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Gradle
+android/.gradle
+android/app/build/
+android/build/
+
+# Android
+*.apk
+*.aab
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/Pods.lock
+
+# Expo
+.expo/
+node_modules/.bin/
+node_modules/.cache/
+node_modules/.expo/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+
+# User-specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Environment variables
+.env
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Typescript
+*.tsbuildinfo
+
+# Cocoapods
+Pods/
